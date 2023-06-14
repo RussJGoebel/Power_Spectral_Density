@@ -1,6 +1,6 @@
 ---
 title: "Power Spectral Density"
-output: html_notebook
+output: github_document
 ---
 
 The purpose of this document is to demonstrate the relationship between spectral density, autocorrelation, and seasonality.
